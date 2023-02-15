@@ -10,6 +10,7 @@
 
 #### **Currently working on:**
 * Updating tech skills in preparation for interview season
+* Git and GitHub review and this lovely new repo!
 
 #### **Needs attention:**
 * Ruby on Rails Engineer with a great company! This is for me!!
